@@ -1,0 +1,18 @@
+Monday -  solution validate 
+Friday - Every Friday Weekly Status email
+Meezan - Meeting Lineup with TechSug for finalize solution
+Meezan and Engro (Connectivity)
+Server to Server Connectivity
+
+
+Danish : MEEZAN Verify API Installation and connectivity
+
+Credentials for Remote Desktop
+Emails to Muneeb
+
+Implementation for Jenkins in .Net Core Projects
+-----------------
+dotnet core SDK
+Jenkins
+Git
+Visual studio
